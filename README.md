@@ -5,7 +5,7 @@ Information regarding the final project for CS 5850/6850 Intro to Data Analysis
 ## Google Drive
 https://drive.google.com/drive/folders/1UHaQsBobYsKpoNQkJRpf8KNlGsrt7U4y?usp=sharing
 
-## Project Items and Due Dates
+## Project Items and Due Dates /n
 Proposal - Due February 19th
 Progress Report - Tentatively Due March 24th
 Presentation - Tentatively Due April 30th
