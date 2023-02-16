@@ -5,6 +5,9 @@ Information regarding the final project for CS 5850/6850 Intro to Data Analysis
 ## Google Drive
 https://drive.google.com/drive/folders/1UHaQsBobYsKpoNQkJRpf8KNlGsrt7U4y?usp=sharing
 
+## Dataset
+https://data.ny.gov/Transportation/Motor-Vehicle-Crashes-Case-Information-Three-Year-/e8ky-4vqe/explore/query/SELECT%0A%20%20%60year%60%2C%0A%20%20%60accident_descriptor%60%2C%0A%20%20%60time%60%2C%0A%20%20%60date%60%2C%0A%20%20%60day_of_week%60%2C%0A%20%20%60police_report%60%2C%0A%20%20%60lighting_conditions%60%2C%0A%20%20%60municipality%60%2C%0A%20%20%60collision_type_descriptor%60%2C%0A%20%20%60county_name%60%2C%0A%20%20%60road_descriptor%60%2C%0A%20%20%60weather_conditions%60%2C%0A%20%20%60traffic_control_device%60%2C%0A%20%20%60road_surface_conditions%60%2C%0A%20%20%60dot_reference_marker_location%60%2C%0A%20%20%60pedestrian_bicyclist_action%60%2C%0A%20%20%60event_descriptor%60%2C%0A%20%20%60number_of_vehicles_involved%60/page/filter
+
 ## Project Items and Due Dates
 1. Proposal - Due February 19th
 2. Progress Report - Tentatively Due March 24th
