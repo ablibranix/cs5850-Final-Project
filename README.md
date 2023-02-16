@@ -5,11 +5,23 @@ Information regarding the final project for CS 5850/6850 Intro to Data Analysis
 ## Google Drive
 https://drive.google.com/drive/folders/1UHaQsBobYsKpoNQkJRpf8KNlGsrt7U4y?usp=sharing
 
-## Project Items and Due Dates /n
+## Project Items and Due Dates
 1. Proposal - Due February 19th
 2. Progress Report - Tentatively Due March 24th
-3. Presentation - Tentatively Due April 30th
+3. Presentation - Due April 30th
 4. Final Report & Code/Materials - Due May 2nd
+
+## Project Phases and Breakdown
+### February 19th - March 15th
+  The initial analysis will be complete and the dataset will be reformatted for the Machine Learning portion
+### March 16th - March 24th
+  Machine Learning portion will be started. Progress Report due on March 24th
+### March 25th - April 15th
+  Machine Learning portion completed
+### April 16th - April 30th
+  Examine data and write final report. Create presentation and record. Presentation due April 30th.
+### May 1 - May 2
+  Finish up any items for report which were not finished.
 
 ## Project Item Breakdown
 ### Proposal
